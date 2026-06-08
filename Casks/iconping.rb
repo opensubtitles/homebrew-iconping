@@ -1,6 +1,6 @@
 cask "iconping" do
-  version "1.0.11"
-  sha256 "5392db91011355aa87bc611eaa3bff4caec94ebf3fc1d90811d1d29e0b59ee7f"
+  version "1.0.12"
+  sha256 "2c173eebd52278adfead4f6a897884b4fc38f956c9abf3b825fd79fbfe36628a"
 
   url "https://github.com/opensubtitles/iconping/releases/download/v#{version}/IconPing.dmg"
   name "IconPing"
